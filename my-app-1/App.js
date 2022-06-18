@@ -49,7 +49,7 @@ export default function App() {
             </View>
  
             <View>
-                <Text style={styles.footer}>Created 18.06.2022</Text>
+                <Text style={styles.footer}>Created by Tatsian Lyzo</Text>
             </View>
         </ImageBackground>
     );
